@@ -10,10 +10,10 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#f2b8c6,#e8a0b8,#d890b0)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1518895312237-a9e23508077d?w=700&q=85",
-    siteTitle: "The Velvet Hour",
-    description: "Devoted to the soft minutes between dusk and candlelight. This journal collects whispered confessions in amber and deep blush.",
-    link: "https://example.com",
+    photo: "images/LoveLetter15Dec",
+    siteTitle: "A Love Letter",
+    description: "Devoted to my moti, written on 15 December 2025",
+    link: "https://royalgeek775.github.io/MaMoti/",
     linkLabel: "Read on",
     accent: "#c8a0e0",
     pageBg: "#f8f4ff",
