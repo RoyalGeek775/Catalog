@@ -20,85 +20,76 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#d8c0f0,#c8a8e8,#b890d8)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1490750967868-88df5691cc33?w=700&q=85",
-    siteTitle: "Lavender & Lace",
-    description: "A bridal editorial where romance is stitched into every thread, curating wedding inspiration with the tenderness of a handwritten vow.",
-    link: "https://example.com",
+    photo: "iamges/Valentine",
+    siteTitle: "Valentine's Day",
+    description: "A valentine website for my goluu moluu.",
+    link: "https://royalgeek775.github.io/Valentine/",
     linkLabel: "Discover",
     accent: "#a8c8e8",
     pageBg: "#f4f8ff",
     bandColor: "linear-gradient(90deg,#c0d8f8,#a8c0f0,#90a8e8)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=700&q=85",
-    siteTitle: "Petals & Prose",
-    description: "Where floral artistry meets literary devotion. Each arrangement borrows its soul from a sonnet, and every bouquet is a sentence you can hold.",
-    link: "https://example.com",
+    photo: "images/LoveCard",
+    siteTitle: "Love Card",
+    description: "A card for my motii jii",
+    link: "https://royalgeek775.github.io/MotiJi/",
     linkLabel: "Explore",
     accent: "#a8d8c0",
     pageBg: "#f4fdf8",
     bandColor: "linear-gradient(90deg,#b8e8d0,#a0d8b8,#88c8a0)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1516589091380-5d8e87df6999?w=700&q=85",
-    siteTitle: "Still & Sacred",
-    description: "A meditation on quiet intimacy: slow mornings, worn books, and the particular light that falls through linen curtains on a Sunday.",
-    link: "https://example.com",
+    photo: "images/LoveJournal",
+    siteTitle: "Love Journal",
+    description: "A journal about myy motii and me.",
+    link: "https://royalgeek775.github.io/MyJigglypuff/",
     linkLabel: "Linger here",
     accent: "#e8c8a0",
     pageBg: "#fffaf2",
     bandColor: "linear-gradient(90deg,#f0d8b0,#e8c898,#d8b880)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=85",
-    siteTitle: "Champagne Letters",
-    description: "Celebratory stationery and heartfelt correspondence reimagined for the digital age, fizzing with elegance and words beautifully chosen.",
-    link: "https://example.com",
+    photo: "images/LoveLetter1",
+    siteTitle: "A Love letter",
+    description: "A love letter for myy jigglypufff",
+    link: "https://royalgeek775.github.io/LoveLetter/",
     linkLabel: "Open an envelope",
     accent: "#e8b0c8",
     pageBg: "#fff5fa",
     bandColor: "linear-gradient(90deg,#f8c8dc,#e8b0c8,#d898b8)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=700&q=85",
-    siteTitle: "Wisteria Nights",
-    description: "Born from the purple haze of summer verandas, gathering moon-drenched photography and poetry for those who believe in enchantment.",
-    link: "https://example.com",
+    photo: "images/ValentineWebsite",
+    siteTitle: "Valentines Day",
+    description: "A Valentines Day Websitee",
+    link: "https://royalgeek775.github.io/ForMyValentine/",
     linkLabel: "Wander in",
     accent: "#c0a8e0",
     pageBg: "#f8f4ff",
     bandColor: "linear-gradient(90deg,#d8c0f8,#c0a8e8,#a890d8)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1522748906645-95d8adfd52c7?w=700&q=85",
-    siteTitle: "The Amber Archive",
-    description: "Preserving analogue romance in a digital world: film photographs, handwritten recipes, and heirloom stories in warm, golden permanence.",
-    link: "https://example.com",
+    photo: "images/Sorry1",
+    siteTitle: "Sorry Website",
+    description: "A Sorry Website cuz i make so many mistakess.",
+    link: "https://royalgeek775.github.io/I-mSorry/",
     linkLabel: "Uncover",
     accent: "#d8b890",
     pageBg: "#fffaf4",
     bandColor: "linear-gradient(90deg,#e8d0a8,#d8b888,#c8a070)"
   },
   {
-    photo: "https://images.unsplash.com/photo-1470116945706-e6bf5d5a53ca?w=700&q=85",
-    siteTitle: "Moonlit Garden",
-    description: "A digital garden tended after midnight, where lantern light and night-blooming jasmine perfume every page and quiet confession.",
-    link: "https://example.com",
+    photo: "images/Sorry2",
+    siteTitle: "Sorry Website",
+    description: "Another sorry website cuz my motii is alwayss rightt",
+    link: "https://royalgeek775.github.io/Sorry/",
     linkLabel: "Enter the garden",
     accent: "#a8c0e8",
     pageBg: "#f4f8ff",
     bandColor: "linear-gradient(90deg,#b8d0f8,#a0b8f0,#88a0e0)"
   },
-  {
-    photo: "https://images.unsplash.com/photo-1519741497674-611481863552?w=700&q=85",
-    siteTitle: "Silk & Sentiment",
-    description: "A gallery of bridal couture and intimate portraiture, where every image is arranged like a verse in an ode to enduring love.",
-    link: "https://example.com",
-    linkLabel: "View the gallery",
-    accent: "#e0a8c8",
-    pageBg: "#fff5f8",
-    bandColor: "linear-gradient(90deg,#f0c0d8,#e0a8c0,#d090a8)"
-  }
+ 
 ];
 
 let current   = -1;
