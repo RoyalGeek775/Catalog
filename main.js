@@ -20,7 +20,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#d8c0f0,#c8a8e8,#b890d8)"
   },
   {
-    photo: "iamges/Valentine.png",
+    photo: "images/Valentine.png",
     siteTitle: "Valentine's Day",
     description: "A valentine website for my goluu moluu.",
     link: "https://royalgeek775.github.io/Valentine/",
