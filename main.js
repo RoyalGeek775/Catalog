@@ -1,9 +1,9 @@
 const PAGES = [
   {
-    photo: "https://images.unsplash.com/photo-1501644898242-cfea317d7faf?w=700&q=85",
-    siteTitle: "Roses & Reverie",
-    description: "A sanctuary where poetry and pressed botanicals meet. Every scroll feels like lifting the seal of a perfumed letter written just for you.",
-    link: "https://example.com",
+    photo: "images/NewYearWebsite",
+    siteTitle: "New Year 2025",
+    description: "A album like diary with your photo and a note on each page on the occasion of new year.",
+    link: "https://royalgeek775.github.io/ToMyMoti/",
     linkLabel: "Step inside",
     accent: "#e8a0b8",
     pageBg: "#fef5f8",
