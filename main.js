@@ -1,6 +1,6 @@
 const PAGES = [
   {
-    photo: "images/NewYearWebsite",
+    photo: "images/NewYearWebsite.png",
     siteTitle: "New Year 2025",
     description: "A album like diary with your photo and a note on each page on the occasion of new year.",
     link: "https://royalgeek775.github.io/ToMyMoti/",
@@ -10,7 +10,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#f2b8c6,#e8a0b8,#d890b0)"
   },
   {
-    photo: "images/LoveLetter15Dec",
+    photo: "images/LoveLetter15Dec.png",
     siteTitle: "A Love Letter",
     description: "Devoted to my moti, written on 15 December 2025",
     link: "https://royalgeek775.github.io/MaMoti/",
@@ -20,7 +20,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#d8c0f0,#c8a8e8,#b890d8)"
   },
   {
-    photo: "iamges/Valentine",
+    photo: "iamges/Valentine.png",
     siteTitle: "Valentine's Day",
     description: "A valentine website for my goluu moluu.",
     link: "https://royalgeek775.github.io/Valentine/",
@@ -30,7 +30,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#c0d8f8,#a8c0f0,#90a8e8)"
   },
   {
-    photo: "images/LoveCard",
+    photo: "images/LoveCard.png",
     siteTitle: "Love Card",
     description: "A card for my motii jii",
     link: "https://royalgeek775.github.io/MotiJi/",
@@ -40,7 +40,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#b8e8d0,#a0d8b8,#88c8a0)"
   },
   {
-    photo: "images/LoveJournal",
+    photo: "images/LoveJournal.png",
     siteTitle: "Love Journal",
     description: "A journal about myy motii and me.",
     link: "https://royalgeek775.github.io/MyJigglypuff/",
@@ -50,7 +50,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#f0d8b0,#e8c898,#d8b880)"
   },
   {
-    photo: "images/LoveLetter1",
+    photo: "images/LoveLetter1.png",
     siteTitle: "A Love letter",
     description: "A love letter for myy jigglypufff",
     link: "https://royalgeek775.github.io/LoveLetter/",
@@ -60,7 +60,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#f8c8dc,#e8b0c8,#d898b8)"
   },
   {
-    photo: "images/ValentineWebsite",
+    photo: "images/ValentineWebsite.png",
     siteTitle: "Valentines Day",
     description: "A Valentines Day Websitee",
     link: "https://royalgeek775.github.io/ForMyValentine/",
@@ -70,7 +70,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#d8c0f8,#c0a8e8,#a890d8)"
   },
   {
-    photo: "images/Sorry1",
+    photo: "images/Sorry1.png",
     siteTitle: "Sorry Website",
     description: "A Sorry Website cuz i make so many mistakess.",
     link: "https://royalgeek775.github.io/I-mSorry/",
@@ -80,7 +80,7 @@ const PAGES = [
     bandColor: "linear-gradient(90deg,#e8d0a8,#d8b888,#c8a070)"
   },
   {
-    photo: "images/Sorry2",
+    photo: "images/Sorry2.png",
     siteTitle: "Sorry Website",
     description: "Another sorry website cuz my motii is alwayss rightt",
     link: "https://royalgeek775.github.io/Sorry/",
